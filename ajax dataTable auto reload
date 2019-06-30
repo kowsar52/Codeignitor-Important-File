@@ -1,0 +1,3 @@
+use this code after data proccessing in success function: 
+
+$('#table_id').DataTable().ajax.reload();
